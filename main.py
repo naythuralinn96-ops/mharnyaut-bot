@@ -7,7 +7,7 @@ TOKEN = "8844366383:AAEMOIQfan451s4UYTOd0Qmu6VEUOSnWvu0"
 bot = telebot.TeleBot(TOKEN)
 
 # Admin ID (မင်းရဲ့ Telegram ID ကို ဒီမှာ ပြောင်းထည့်ပါ)
-ADMIN_ID = 6051956660  
+ADMIN_ID =6051956660 
 
 # Database (လတ်တလော မှတ်ဉာဏ်ထဲသိမ်းမယ့်စနစ်)
 users_db = {}  # {user_id: {profile_data}}
